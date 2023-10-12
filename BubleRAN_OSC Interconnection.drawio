@@ -1,0 +1,119 @@
+<mxfile host="app.diagrams.net" modified="2023-10-12T14:52:33.674Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="MDqa9x66k1US-rAsTE3n" version="22.0.4" type="github">
+  <diagram name="Page-1" id="gCN4o6Veg4n1kq5N-5kR">
+    <mxGraphModel dx="472" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XRGXcyckAtTecOZa3kos-3" value="OAI gNB" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="830" y="440" width="150" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="XRGXcyckAtTecOZa3kos-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="XRGXcyckAtTecOZa3kos-1" target="XRGXcyckAtTecOZa3kos-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XRGXcyckAtTecOZa3kos-1" value="OAI DU" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="845" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XRGXcyckAtTecOZa3kos-2" value="OAI CU" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="845" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3vOwqqGTulnoMyiWmg79-8" value="OSC Near-RT RIC [F]" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="50" y="80" width="620" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="3vOwqqGTulnoMyiWmg79-13" value="Slice xApp" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="370" y="120" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3vOwqqGTulnoMyiWmg79-16" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="70" y="120" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3vOwqqGTulnoMyiWmg79-9" value="KPIMON-GO xApp" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" parent="3vOwqqGTulnoMyiWmg79-16" vertex="1">
+          <mxGeometry width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3vOwqqGTulnoMyiWmg79-10" value="E2SP-KPM v2.02" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="3vOwqqGTulnoMyiWmg79-16" vertex="1">
+          <mxGeometry x="5" y="30" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3vOwqqGTulnoMyiWmg79-17" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="220" y="120" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3vOwqqGTulnoMyiWmg79-11" value="KPM xApp" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" parent="3vOwqqGTulnoMyiWmg79-17" vertex="1">
+          <mxGeometry width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3vOwqqGTulnoMyiWmg79-12" value="E2SP-KPM v2.02" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="3vOwqqGTulnoMyiWmg79-17" vertex="1">
+          <mxGeometry x="5" y="30" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3vOwqqGTulnoMyiWmg79-18" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="520" y="120" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3vOwqqGTulnoMyiWmg79-14" value="RC xApp" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" parent="3vOwqqGTulnoMyiWmg79-18" vertex="1">
+          <mxGeometry width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3vOwqqGTulnoMyiWmg79-15" value="E2SM-RC v1.03" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="3vOwqqGTulnoMyiWmg79-18" vertex="1">
+          <mxGeometry x="5" y="30" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3vOwqqGTulnoMyiWmg79-19" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="760" y="80" width="330" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="3vOwqqGTulnoMyiWmg79-1" value="FlexRIC Controller" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" parent="3vOwqqGTulnoMyiWmg79-19" vertex="1">
+          <mxGeometry width="330" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="3vOwqqGTulnoMyiWmg79-2" value="KPM xAPP" style="rounded=0;whiteSpace=wrap;html=1;" parent="3vOwqqGTulnoMyiWmg79-19" vertex="1">
+          <mxGeometry x="30" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3vOwqqGTulnoMyiWmg79-3" value="RC xAPP" style="rounded=0;whiteSpace=wrap;html=1;" parent="3vOwqqGTulnoMyiWmg79-19" vertex="1">
+          <mxGeometry x="180" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3vOwqqGTulnoMyiWmg79-4" value="Near-RT RIC" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" parent="3vOwqqGTulnoMyiWmg79-19" vertex="1">
+          <mxGeometry x="20" y="120" width="290" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="3vOwqqGTulnoMyiWmg79-5" value="E2SP-KPM v3.0" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="3vOwqqGTulnoMyiWmg79-19" vertex="1">
+          <mxGeometry x="30" y="150" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3vOwqqGTulnoMyiWmg79-6" value="E2SM-RC v1.03" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="3vOwqqGTulnoMyiWmg79-19" vertex="1">
+          <mxGeometry x="180" y="150" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3vOwqqGTulnoMyiWmg79-20" value="Near-RT RIC Platform" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="70" y="230" width="580" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3vOwqqGTulnoMyiWmg79-21" value="InfluxDB" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="95" y="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3vOwqqGTulnoMyiWmg79-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.112;entryY=0.01;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" parent="1" source="3vOwqqGTulnoMyiWmg79-9" target="3vOwqqGTulnoMyiWmg79-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3vOwqqGTulnoMyiWmg79-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.371;entryY=0.004;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" parent="1" source="3vOwqqGTulnoMyiWmg79-11" target="3vOwqqGTulnoMyiWmg79-20" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3vOwqqGTulnoMyiWmg79-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="3vOwqqGTulnoMyiWmg79-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="435" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="435" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3vOwqqGTulnoMyiWmg79-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.888;entryY=-0.008;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" parent="1" source="3vOwqqGTulnoMyiWmg79-14" target="3vOwqqGTulnoMyiWmg79-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3vOwqqGTulnoMyiWmg79-29" value="OSC O-DU [G]" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="50" y="360" width="630" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="3vOwqqGTulnoMyiWmg79-30" value="O1 Module" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="70" y="400" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="3vOwqqGTulnoMyiWmg79-31" value="Netconf Server" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="430" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3vOwqqGTulnoMyiWmg79-32" value="VES Agent" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="490" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3vOwqqGTulnoMyiWmg79-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="220" y="400" width="420" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="3vOwqqGTulnoMyiWmg79-34" value="E2AP Interface Manager" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="420" width="170" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
