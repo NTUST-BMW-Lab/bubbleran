@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-30T06:31:48.963Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="4njtNeoLbzLEC1jo-KLn" version="22.0.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-10-30T13:54:59.130Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="pybXd42vJXxuVMbvcII2" version="22.0.8" type="github" pages="4">
   <diagram name="Option 1" id="s59Q-w158SCySWScrCad">
-    <mxGraphModel dx="1434" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1235" dy="685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="zjvszuKnY3uwTeaeMW8j-0" />
         <mxCell id="zjvszuKnY3uwTeaeMW8j-1" parent="zjvszuKnY3uwTeaeMW8j-0" />
@@ -98,7 +98,7 @@
         <mxCell id="6quzkuUEPlF7q0RY0qUe-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="zjvszuKnY3uwTeaeMW8j-1" source="6quzkuUEPlF7q0RY0qUe-1" target="6quzkuUEPlF7q0RY0qUe-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ih0XG9cOAy8pQyRao4BD-0" value="OSC O-DU [G]" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="zjvszuKnY3uwTeaeMW8j-1" vertex="1">
+        <mxCell id="ih0XG9cOAy8pQyRao4BD-0" value="OSC O-DU [G]&lt;br&gt;(192.168.8.45)" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="zjvszuKnY3uwTeaeMW8j-1" vertex="1">
           <mxGeometry x="1010" y="410" width="600" height="280" as="geometry" />
         </mxCell>
         <mxCell id="ih0XG9cOAy8pQyRao4BD-1" value="O1 Module" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" parent="zjvszuKnY3uwTeaeMW8j-1" vertex="1">
@@ -151,7 +151,7 @@
         <mxCell id="ih0XG9cOAy8pQyRao4BD-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="zjvszuKnY3uwTeaeMW8j-1" source="ih0XG9cOAy8pQyRao4BD-16" target="ih0XG9cOAy8pQyRao4BD-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ih0XG9cOAy8pQyRao4BD-16" value="OSC CU-Stub [G]" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="zjvszuKnY3uwTeaeMW8j-1" vertex="1">
+        <mxCell id="ih0XG9cOAy8pQyRao4BD-16" value="OSC CU-Stub [G]&lt;br&gt;(192.168.8.118)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="zjvszuKnY3uwTeaeMW8j-1" vertex="1">
           <mxGeometry x="1400" y="330" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="ih0XG9cOAy8pQyRao4BD-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;jumpStyle=arc;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="zjvszuKnY3uwTeaeMW8j-1" source="ih0XG9cOAy8pQyRao4BD-19" target="ih0XG9cOAy8pQyRao4BD-0" edge="1">
@@ -165,8 +165,8 @@
         <mxCell id="ih0XG9cOAy8pQyRao4BD-18" value="E2 Interface" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="zjvszuKnY3uwTeaeMW8j-1" vertex="1">
           <mxGeometry x="1215" y="337.5" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ih0XG9cOAy8pQyRao4BD-19" value="BubbleRAN" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="zjvszuKnY3uwTeaeMW8j-1" vertex="1">
-          <mxGeometry x="1130" y="80" width="370" height="230" as="geometry" />
+        <mxCell id="ih0XG9cOAy8pQyRao4BD-19" value="BubbleRAN&lt;br&gt;(192.168.8.45)" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="zjvszuKnY3uwTeaeMW8j-1" vertex="1">
+          <mxGeometry x="1130" y="60" width="370" height="250" as="geometry" />
         </mxCell>
         <mxCell id="ih0XG9cOAy8pQyRao4BD-20" value="FlexRIC Controller" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" parent="zjvszuKnY3uwTeaeMW8j-1" vertex="1">
           <mxGeometry x="1150" y="110" width="330" height="180" as="geometry" />
