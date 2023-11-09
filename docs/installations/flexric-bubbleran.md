@@ -4,8 +4,6 @@
 <a href="https://releases.ubuntu.com/20.04/"><img src="https://img.shields.io/badge/OS-Ubuntu20.04-Green" alt="Supported Platform BubbleRAN"></a>
 
 
-
-
 - [FlexRIC BubbleRAN](#flexric-bubbleran)
 - [1. Introduction](#1-introduction)
 - [2. Installation](#2-installation)
@@ -20,7 +18,7 @@ In this tutorial, the FlexRIC was installed through a snap package provided by B
 1. Download the [snap package](https://drive.google.com/file/d/1RCkfhLVp8H9zS2chtVkXXUAsEpzCA_xm/view?usp=sharing).
 
 2. Install FlexRIC on BubbleRAN:
-   1. Install the snap package on the `PATH: {file path}` location
+   1. Install the snap package on the `PATH: {file path}` location:
         ```bash
         sudo snap install --dangerous ./flexric.snap
         ```
