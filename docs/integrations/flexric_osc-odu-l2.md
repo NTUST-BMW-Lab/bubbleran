@@ -1,4 +1,4 @@
-FlexRIC BubbleRAN + OSC O-DU L2
+FlexRIC and OSC O-DU L2
 ===
 
 
